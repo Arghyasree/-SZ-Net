@@ -12,6 +12,14 @@ Bidirectional Long Short-Term Memory (BiLSTM) and Bidirectional Gated Recurrent 
 
 Channel Attention mechanism to enhance model interpretability and accuracy.
 
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/773d5855-516c-426b-8031-dec3e0befb87" alt="Overall pipeline of our proposed approach for EEG-based SZ diagnosis" width="800">
+    <p>Overall pipeline of our proposed approach for EEG-based SZ diagnosis</p>
+</div>
+
+
+
 ## 📊 Datasets
 The model is evaluated on two benchmark EEG datasets:
 
